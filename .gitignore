@@ -1,8 +1,6 @@
-# Node modules
 node_modules/
-
-# Environment variables
+dist/
 .env
-
-# Lock file
-package-lock.json
+logs/
+*.log
+.DS_Store
