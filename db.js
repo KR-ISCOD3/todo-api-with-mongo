@@ -18,6 +18,3 @@ export const connectDB = async () => {
 };
 
 export const getDB = () => db;
-
-// pw = Z83NjRD4vyMUdLEq
-// name = sokpisey
